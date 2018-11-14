@@ -4,3 +4,8 @@ body {
 	font-family: roboto;
 
 }
+	h1{ font-size: bold;
+ }
+ 	.important {
+ 		font-size: 22px;
+ 	}

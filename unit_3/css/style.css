@@ -1,0 +1,51 @@
+body {
+	background-color: #DAD0BE;
+	color: #0B1406;
+	font-family: "arial";
+	font-size: 10px;
+	margin: 10px
+
+}
+
+
+h1 {
+	color: #8C4123;
+	text-transform: lowercase;
+	font-size: 60px;
+	font-family: "Canela";
+	
+}
+
+
+h2 {
+	color: #CF6E37;
+	text-align: 
+	font-family: "arial";
+	font-size: 25px
+}
+
+h3 {
+	color: #8C4123;
+	text-align: left;
+	font-family: "Canela";
+	text-transform: lowercase;
+	font-size: 20px}
+}
+
+img {
+ display: block;
+ margin: 0 auto; 
+ padding: 20px;
+ }
+
+ body {
+  font-size: 15px;
+
+}
+
+
+footer {
+text-align: center;
+href-decoration: none;
+padding: 20px;
+}
